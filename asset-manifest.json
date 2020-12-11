@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Algustar/static/css/main.44392440.chunk.css",
-    "main.js": "/Algustar/static/js/main.25d591cd.chunk.js",
-    "main.js.map": "/Algustar/static/js/main.25d591cd.chunk.js.map",
+    "main.css": "/Algustar/static/css/main.c5d95bd3.chunk.css",
+    "main.js": "/Algustar/static/js/main.a377f5e6.chunk.js",
+    "main.js.map": "/Algustar/static/js/main.a377f5e6.chunk.js.map",
     "runtime-main.js": "/Algustar/static/js/runtime-main.d4b4843c.js",
     "runtime-main.js.map": "/Algustar/static/js/runtime-main.d4b4843c.js.map",
     "static/js/2.8972a901.chunk.js": "/Algustar/static/js/2.8972a901.chunk.js",
     "static/js/2.8972a901.chunk.js.map": "/Algustar/static/js/2.8972a901.chunk.js.map",
     "index.html": "/Algustar/index.html",
-    "precache-manifest.0cea637bb2094ddaec2f9bd2178d8375.js": "/Algustar/precache-manifest.0cea637bb2094ddaec2f9bd2178d8375.js",
+    "precache-manifest.17349f6cac2113758e4be53a27af63af.js": "/Algustar/precache-manifest.17349f6cac2113758e4be53a27af63af.js",
     "service-worker.js": "/Algustar/service-worker.js",
-    "static/css/main.44392440.chunk.css.map": "/Algustar/static/css/main.44392440.chunk.css.map",
+    "static/css/main.c5d95bd3.chunk.css.map": "/Algustar/static/css/main.c5d95bd3.chunk.css.map",
     "static/js/2.8972a901.chunk.js.LICENSE.txt": "/Algustar/static/js/2.8972a901.chunk.js.LICENSE.txt",
-    "static/media/Cutar.png": "/Algustar/static/media/Cutar.12cb9223.png",
-    "static/media/slider1a.jpg": "/Algustar/static/media/slider1a.34cd75a0.jpg"
+    "static/media/slider1a.jpg": "/Algustar/static/media/slider1a.34cd75a0.jpg",
+    "static/media/tangra.png": "/Algustar/static/media/tangra.d73453f8.png"
   },
   "entrypoints": [
     "static/js/runtime-main.d4b4843c.js",
     "static/js/2.8972a901.chunk.js",
-    "static/css/main.44392440.chunk.css",
-    "static/js/main.25d591cd.chunk.js"
+    "static/css/main.c5d95bd3.chunk.css",
+    "static/js/main.a377f5e6.chunk.js"
   ]
 }
