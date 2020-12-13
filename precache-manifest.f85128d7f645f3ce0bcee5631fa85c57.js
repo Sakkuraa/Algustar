@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d37da8b6dbd0add1922ffef52af36feb",
+    "revision": "6862df6c1ef6cd69635a09feccda716c",
     "url": "/Algustar/index.html"
   },
   {
-    "revision": "40ce431b1682c415b9b1",
+    "revision": "d338144f7770a4f48a26",
     "url": "/Algustar/static/css/main.c5d95bd3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Algustar/static/js/2.8972a901.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40ce431b1682c415b9b1",
-    "url": "/Algustar/static/js/main.c04cf8a0.chunk.js"
+    "revision": "d338144f7770a4f48a26",
+    "url": "/Algustar/static/js/main.034608b0.chunk.js"
   },
   {
     "revision": "08a313e779cbcc08b160",
