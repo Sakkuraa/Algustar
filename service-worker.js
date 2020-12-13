@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Algustar/precache-manifest.17349f6cac2113758e4be53a27af63af.js"
+  "/Algustar/precache-manifest.00537a62740bc480088972c9f7bdba98.js"
 );
 
 self.addEventListener('message', (event) => {
