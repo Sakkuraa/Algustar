@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Algustar/static/css/main.c5d95bd3.chunk.css",
-    "main.js": "/Algustar/static/js/main.034608b0.chunk.js",
-    "main.js.map": "/Algustar/static/js/main.034608b0.chunk.js.map",
+    "main.js": "/Algustar/static/js/main.b92e39fe.chunk.js",
+    "main.js.map": "/Algustar/static/js/main.b92e39fe.chunk.js.map",
     "runtime-main.js": "/Algustar/static/js/runtime-main.d4b4843c.js",
     "runtime-main.js.map": "/Algustar/static/js/runtime-main.d4b4843c.js.map",
     "static/js/2.8972a901.chunk.js": "/Algustar/static/js/2.8972a901.chunk.js",
     "static/js/2.8972a901.chunk.js.map": "/Algustar/static/js/2.8972a901.chunk.js.map",
     "index.html": "/Algustar/index.html",
-    "precache-manifest.f85128d7f645f3ce0bcee5631fa85c57.js": "/Algustar/precache-manifest.f85128d7f645f3ce0bcee5631fa85c57.js",
+    "precache-manifest.881aadfabb76afaaea30460edb06c5c0.js": "/Algustar/precache-manifest.881aadfabb76afaaea30460edb06c5c0.js",
     "service-worker.js": "/Algustar/service-worker.js",
     "static/css/main.c5d95bd3.chunk.css.map": "/Algustar/static/css/main.c5d95bd3.chunk.css.map",
     "static/js/2.8972a901.chunk.js.LICENSE.txt": "/Algustar/static/js/2.8972a901.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.d4b4843c.js",
     "static/js/2.8972a901.chunk.js",
     "static/css/main.c5d95bd3.chunk.css",
-    "static/js/main.034608b0.chunk.js"
+    "static/js/main.b92e39fe.chunk.js"
   ]
 }
