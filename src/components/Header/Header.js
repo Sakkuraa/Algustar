@@ -8,7 +8,7 @@ function Header() {
 		<header>
 	    <div className="main-top">
 	      <div className="header-t clearfix">
-	          <NavLink to="/"><img src={require("./Cutar.png")}/></NavLink>
+	          <NavLink to="/"><img src={require("./Tangra.png")}/></NavLink>
 	      </div>
 	      <div className="header-b clearfix">
 	        <nav>
@@ -31,4 +31,4 @@ function Header() {
 	)
 }
 export default Header;
-
+//https://github.com/Sakkuraa/Algustar.git
