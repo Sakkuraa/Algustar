@@ -58,7 +58,7 @@ export default class Fourth1 extends Component {
                 <br/>
                 Аҕа ууһа буолан тарҕаныым<br/>
                 (Ийэ ууһа буолан тэнийиим).<br/>
-                Дом! <br/>
+                Дуом! <br/>
                 <br/>
 					</p>
 				</article>
