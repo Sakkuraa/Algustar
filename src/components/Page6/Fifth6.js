@@ -55,7 +55,7 @@ export default class Fifth6 extends Component {
                 <br/>
                 Үс-түөрт харахтаах<br/>
                 Үтүө киһи буолуум.<br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

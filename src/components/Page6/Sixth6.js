@@ -53,7 +53,7 @@ export default class Sixth6 extends Component {
                 <br/>
                 Үрүҥ күн сырдыгыттан<br/>
                 Үөрэ-көтө сылдьыым.<br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

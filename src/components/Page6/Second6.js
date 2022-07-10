@@ -55,7 +55,7 @@ export default class Second6 extends Component {
                 <br/>
                 Үрүҥ Айыы Тойонтон<br/>
                 Өрүһүлтэбин булуум.<br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

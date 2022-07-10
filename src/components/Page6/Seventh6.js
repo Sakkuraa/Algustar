@@ -57,7 +57,7 @@ export default class Seventh6 extends Component {
                 Илэ буоллун, <br/>
                 Сылдьыбытым <br/>
                 Кырдьык буоллун. <br/>
-                Дом! <br/> <br/>
+                Дуом! <br/> <br/>
 					</p>
 				</article>
 				<article><br/><br/>			

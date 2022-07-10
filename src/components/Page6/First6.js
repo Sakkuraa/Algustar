@@ -56,7 +56,7 @@ export default class First6 extends Component {
                 <br/>
                 Айыы Суолун <br/>
                 Арыйан иһиим. <br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
                 </p>
 				</article>
 				<article><br/><br/>			
