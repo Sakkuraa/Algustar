@@ -56,7 +56,7 @@ export default class Second1 extends Component {
                 <br/>
                 Киһи киһи буолар <br/>
                 Кэскиллээх суолун батыһыым.<br/>
-                Дом! <br/>
+                Дуом! <br/>
 					</p><br/>
 				</article>
 				<article><br/><br/>			
