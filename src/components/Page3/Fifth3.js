@@ -57,7 +57,7 @@ export default class Fifth3 extends Component {
                 Ньымаланыым,<br/>
                 Имигэс<br/>
                 Идэлэниим. <br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

@@ -55,7 +55,7 @@ export default class First3 extends Component {
                 <br/>
                 Эстибэт сэниэлэниим,<br/>
                 Быстыбат бырдыланыым.<br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			
