@@ -13,7 +13,7 @@ function Header() {
 	      <div className="header-b clearfix">
 	        <nav>
 	          <ul className="menu">	         
-	            <li><NavLink to="/">Айыы</NavLink></li>	         
+	            <li><NavLink to="/">Таҥара</NavLink></li>	         
 	            <li><NavLink to="/t1">Айыыһыт</NavLink></li>
 	            <li><NavLink to="/t2">Иэйэхсит</NavLink></li>
 	            <li><NavLink to="/t3">Дьөһөгөй</NavLink></li>
@@ -22,7 +22,7 @@ function Header() {
 	            <li><NavLink to="/t6">Сүҥ Дьааһын</NavLink></li>
 	            <li><NavLink to="/t7">Билии айыылара</NavLink></li>
 	            <li><NavLink to="/t8">Турук айыылара</NavLink></li>
-	            <li><NavLink to="/t9">Аан Айыы Тойон</NavLink></li>	         
+	            <li><NavLink to="/t9">Үрүҥ Аар Тойон</NavLink></li>	         
 	          </ul>
 	        </nav>	              
 	      </div>
