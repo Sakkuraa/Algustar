@@ -51,7 +51,7 @@ export default class Seventh5 extends Component {
                 <br/>
                 Күнүм сирин <br/>
                 Көҕөрдүүм. <br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

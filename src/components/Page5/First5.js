@@ -53,7 +53,7 @@ export default class First5 extends Component {
                   <br/>
                   Дьоҕур суола <br/>
                   Тобулуннун. <br/>
-                  Дом! <br/><br/>
+                  Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

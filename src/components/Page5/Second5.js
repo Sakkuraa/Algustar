@@ -55,7 +55,7 @@ export default class Second5 extends Component {
                                <br/>
                                Бэйэбин булан <br/>
                                Бэрт киһи буолуум. <br/>
-                               Дом! <br/><br/>
+                               Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

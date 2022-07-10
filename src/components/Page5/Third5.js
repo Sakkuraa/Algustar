@@ -56,7 +56,7 @@ export default class Third5 extends Component {
                 <br/>
                 Идэ диэки <br/>
                 Эргиллиим. <br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			
