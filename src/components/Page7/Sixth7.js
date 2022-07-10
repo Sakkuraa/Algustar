@@ -53,7 +53,7 @@ export default class Sixth7 extends Component {
                 <br/>
                 Сээркээн Сэһэн <br/>
                 Этэрин истиим. <br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

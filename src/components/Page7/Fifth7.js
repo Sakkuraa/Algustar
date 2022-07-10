@@ -55,7 +55,7 @@ export default class Fifth7 extends Component {
                 Толору буоллун, <br/>
                 Түөргүлүүрүм <br/>
                 Сөптөөх буоллун. <br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

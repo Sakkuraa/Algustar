@@ -55,7 +55,7 @@ export default class Fourth7 extends Component {
                 <br/>
                 Тоҕус долоҕойум <br/>
                 Суола тобулуннун. <br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

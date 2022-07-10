@@ -55,7 +55,7 @@ export default class Second7 extends Component {
                 <br/>
                 Айыылартан<br/>
                 Айдарыылаах буолуум. <br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

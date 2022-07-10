@@ -51,7 +51,7 @@ export default class Seventh7 extends Component {
                 <br/>
                 Этэр тылым <br/>
                 Иччилэннин. <br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			
