@@ -14,7 +14,7 @@ export default class Second9 extends Component {
 			         <NavLink to="/Fourth9">Туом Айыы Тойон</NavLink><br/><br/>
 			         <NavLink to="/Fifth9">Майгы Айыы Тойон</NavLink><br/><br/>
 			         <NavLink to="/Sixth9">Сиэр Айыы Тойон</NavLink><br/><br/>
-			         <NavLink to="/Seventh9">Дом Айыы Тойон</NavLink><br/><br/>
+			         <NavLink to="/Seventh9">Дуом Айыы Тойон</NavLink><br/><br/>
 					</ul>
 				</article>
 				<article><br/><br/>			
@@ -55,7 +55,7 @@ export default class Second9 extends Component {
 	             <br/>
 	             Сымнаҕас ытыстарыгар<br/>
 	             Олортуннар.<br/>
-	             Дом!<br/><br/>
+	             Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			
