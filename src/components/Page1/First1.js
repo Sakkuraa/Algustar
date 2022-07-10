@@ -56,7 +56,7 @@ export default class First1 extends Component {
 					Сүүспэр <br/>
 					Сүппэт-оспот <br/>
 					Өркөн түстүн.<br/>
-					Дом!<br/>
+					Дуом!<br/>
 					<br/>
 					</p>
 				</article>
