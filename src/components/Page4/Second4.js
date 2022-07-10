@@ -61,7 +61,7 @@ export default class Third3 extends Component {
                 Эппит тылбын <br/>
                 Эргэрпэт <br/>
                 Эрэллээх киһи буолуум.<br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

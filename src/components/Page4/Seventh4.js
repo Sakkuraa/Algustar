@@ -57,7 +57,7 @@ export default class Third3 extends Component {
                 Ааппын харыстыым, <br/>
                 Күн киһитэ буолар <br/>
                 Көҥүлбүн көмөскүүм.<br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

@@ -58,7 +58,7 @@ export default class Third3 extends Component {
                 <br/>
                 Киһи киһитэ буолан <br/>
                 Килэйиим.<br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			
@@ -78,7 +78,7 @@ export default class Third3 extends Component {
 		            Рассуждения других.<br/>
 		            <br/>
 		            Человек живет с людьми<br/>
-		            Со своим народом.<br/>
+		            Со своим нароДуом.<br/>
 		            <br/>
 		            Сошедшего с пути может клюнут ворона,<br/>
 		            Уставшего зверя уносит сокол.<br/>
