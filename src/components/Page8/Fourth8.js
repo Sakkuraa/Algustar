@@ -53,7 +53,7 @@ export default class Fourth8 extends Component {
                 <br/>
                 Өйүм-санаам <br/>
                 Бөҕөх буоллун.<br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

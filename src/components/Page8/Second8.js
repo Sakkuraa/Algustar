@@ -53,7 +53,7 @@ export default class Second8 extends Component {
                 <br/>
                 Тииттэн тирэниим, <br/>
                 Таастан тайаныым. <br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

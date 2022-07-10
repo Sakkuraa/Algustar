@@ -55,7 +55,7 @@ export default class Sixth8 extends Component {
                 <br/>
                 Ылыммыт дьыалабын<br/>
                 Ситэрэн-хоторон иһиим..<br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

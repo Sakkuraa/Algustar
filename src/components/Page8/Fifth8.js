@@ -53,7 +53,7 @@ export default class Fifth8 extends Component {
                 <br/>
                 Аар баҕах буолан <br/>
                 Барҕарыым. <br/>
-                Дом! <br/><br/>
+                Дуом! <br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

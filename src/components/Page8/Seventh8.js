@@ -57,7 +57,7 @@ export default class Seventh8 extends Component {
                 <br/>
                 Ситэри ыйаахтаныым,<br/>
                 Толору оҥорууланыым.<br/>
-                Дом!<br/><br/>
+                Дуом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			
