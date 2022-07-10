@@ -56,7 +56,7 @@ export default class Seventh1 extends Component {
                 Айыы суола<br/>
                 Мин туспар <br/>
                 Арылла турдун.<br/>
-                Дом!<br/>
+                Дуом!<br/>
                 <br/>
 					</p>
 				</article>
