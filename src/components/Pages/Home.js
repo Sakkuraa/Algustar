@@ -5,9 +5,6 @@ export default class Home extends Component {
   render() {
     return (
       <div className="my-slider main-top">
-        <ul>
-          <img src={require("./slider1a.jpg")} />
-        </ul>
         <hr></hr>
         <h1>САХА ТАНГРАИЗМ</h1>
         <div className="main-middle3 main-top clearfix">
