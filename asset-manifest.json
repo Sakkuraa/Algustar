@@ -1,24 +1,25 @@
 {
   "files": {
     "main.css": "/Algustar/static/css/main.44392440.chunk.css",
-    "main.js": "/Algustar/static/js/main.a8032ebb.chunk.js",
-    "main.js.map": "/Algustar/static/js/main.a8032ebb.chunk.js.map",
+    "main.js": "/Algustar/static/js/main.09509fb5.chunk.js",
+    "main.js.map": "/Algustar/static/js/main.09509fb5.chunk.js.map",
     "runtime-main.js": "/Algustar/static/js/runtime-main.d4b4843c.js",
     "runtime-main.js.map": "/Algustar/static/js/runtime-main.d4b4843c.js.map",
     "static/js/2.8972a901.chunk.js": "/Algustar/static/js/2.8972a901.chunk.js",
     "static/js/2.8972a901.chunk.js.map": "/Algustar/static/js/2.8972a901.chunk.js.map",
     "index.html": "/Algustar/index.html",
-    "precache-manifest.a5d0e492b4a42821d3e670cf8e04ebbb.js": "/Algustar/precache-manifest.a5d0e492b4a42821d3e670cf8e04ebbb.js",
+    "precache-manifest.2e54209d63f57628f4692382e3fd1e25.js": "/Algustar/precache-manifest.2e54209d63f57628f4692382e3fd1e25.js",
     "service-worker.js": "/Algustar/service-worker.js",
     "static/css/main.44392440.chunk.css.map": "/Algustar/static/css/main.44392440.chunk.css.map",
     "static/js/2.8972a901.chunk.js.LICENSE.txt": "/Algustar/static/js/2.8972a901.chunk.js.LICENSE.txt",
     "static/media/Tangra.png": "/Algustar/static/media/Tangra.d73453f8.png",
+    "static/media/ii.png": "/Algustar/static/media/ii.09527991.png",
     "static/media/slider1a.jpg": "/Algustar/static/media/slider1a.34cd75a0.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.d4b4843c.js",
     "static/js/2.8972a901.chunk.js",
     "static/css/main.44392440.chunk.css",
-    "static/js/main.a8032ebb.chunk.js"
+    "static/js/main.09509fb5.chunk.js"
   ]
 }
