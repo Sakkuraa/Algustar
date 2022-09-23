@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Algustar/static/css/main.44392440.chunk.css",
+    "main.js": "/Algustar/static/js/main.bd6868dd.chunk.js",
+    "main.js.map": "/Algustar/static/js/main.bd6868dd.chunk.js.map",
+    "runtime-main.js": "/Algustar/static/js/runtime-main.d4b4843c.js",
+    "runtime-main.js.map": "/Algustar/static/js/runtime-main.d4b4843c.js.map",
+    "static/js/2.8972a901.chunk.js": "/Algustar/static/js/2.8972a901.chunk.js",
+    "static/js/2.8972a901.chunk.js.map": "/Algustar/static/js/2.8972a901.chunk.js.map",
+    "index.html": "/Algustar/index.html",
+    "precache-manifest.f5517418c0d14a4295db14b369964d3b.js": "/Algustar/precache-manifest.f5517418c0d14a4295db14b369964d3b.js",
+    "service-worker.js": "/Algustar/service-worker.js",
+    "static/css/main.44392440.chunk.css.map": "/Algustar/static/css/main.44392440.chunk.css.map",
+    "static/js/2.8972a901.chunk.js.LICENSE.txt": "/Algustar/static/js/2.8972a901.chunk.js.LICENSE.txt",
+    "static/media/Tangra.png": "/Algustar/static/media/Tangra.d73453f8.png",
+    "static/media/ii.png": "/Algustar/static/media/ii.09527991.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d4b4843c.js",
+    "static/js/2.8972a901.chunk.js",
+    "static/css/main.44392440.chunk.css",
+    "static/js/main.bd6868dd.chunk.js"
+  ]
+}
