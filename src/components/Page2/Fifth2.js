@@ -55,7 +55,7 @@ export default class Fifth2 extends Component {
             <br />
             <br />
             Соҕуруу өттүбүттэн <br />
-            Содуом охсубатын. <br />
+            СоДом охсубатын. <br />
             <br />
             Арҕаа өттүбүттэн <br />
             Алдьархай киирбэтин. <br />
@@ -81,7 +81,7 @@ export default class Fifth2 extends Component {
             <br />
             Айыы сырдыгынан <br />
             Сыдьаайыым. <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

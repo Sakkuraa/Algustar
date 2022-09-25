@@ -55,7 +55,7 @@ export default class Third2 extends Component {
                   <br/>
                   Эргэ эстэ турдун,<br/>
                   Саҥа сандааран истин.<br/>
-                  Дуом!<br/><br/>          
+                  Дом!<br/><br/>          
 					</p>
 				</article>
 				<article><br/><br/>			

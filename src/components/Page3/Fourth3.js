@@ -89,7 +89,7 @@ export default class Fourth3 extends Component {
             Эбии тэптэн иһиим, <br />
             Үөрэнэнэн <br />
             Өрө баран иһиим. <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

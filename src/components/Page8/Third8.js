@@ -89,7 +89,7 @@ export default class Third8 extends Component {
             <br />
             Эппитим экчи буоллун.
             <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

@@ -82,7 +82,7 @@ export default class First7 extends Component {
             Түөрт дойду <br />
             Түөргүтэ буолуум.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

@@ -92,7 +92,7 @@ export default class Third1 extends Component {
             <br />
             Окко түспүт <br />
             Оҥоһуум буоллун. <br />
-            Дуом! <br />
+            Дом! <br />
           </p>
           <br />
         </article>

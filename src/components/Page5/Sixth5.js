@@ -81,7 +81,7 @@ export default class Sixth5 extends Component {
             Киһи буолбут <br />
             Кэскилим ситтин.
             <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

@@ -79,7 +79,7 @@ export default class Sixth2 extends Component {
             <br />
             Ат үрдүгэр буолуум.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

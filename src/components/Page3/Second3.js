@@ -87,7 +87,7 @@ export default class Second3 extends Component {
             Ат бөҕө буолуум, <br />
             Кус быһый буолуум.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

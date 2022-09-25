@@ -27,7 +27,7 @@ export default class Seventh9 extends Component {
             <NavLink to="/Sixth9">Сиэр Айыы Тойон</NavLink>
             <br />
             <br />
-            <NavLink to="/Seventh9">Дуом Айыы Тойон</NavLink>
+            <NavLink to="/Seventh9">Дом Айыы Тойон</NavLink>
             <br />
             <br />
           </ul>
@@ -35,10 +35,10 @@ export default class Seventh9 extends Component {
         <article>
           <br />
           <br />
-          <h2 align="center">Дуом алгыһа</h2>
+          <h2 align="center">Дом алгыһа</h2>
           <br />
           <p>
-            Дуом Айыы Тойон,
+            Дом Айыы Тойон,
             <br />
             Бэттэх көрөн <br />
             Мичик гын! <br />
@@ -46,7 +46,7 @@ export default class Seventh9 extends Component {
             <br />
             Тулхадыйбат толору
             <br />
-            Дуомнаах буолуум.
+            Домнаах буолуум.
             <br />
             <br />
             Өбүгэлэрим
@@ -83,9 +83,9 @@ export default class Seventh9 extends Component {
             Абааһы хоппута суох.
             <br />
             <br />
-            Тоҕус Дуоммун толоруум!
+            Тоҕус Доммун толоруум!
             <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

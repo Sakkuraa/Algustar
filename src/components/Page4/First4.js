@@ -79,7 +79,7 @@ export default class Third3 extends Component {
             <br />
             Дыгын оҕото <br />
             Буолуум. <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

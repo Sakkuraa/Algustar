@@ -89,7 +89,7 @@ export default class First8 extends Component {
             <br />
             Турукпун ыһыктымыым.
             <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

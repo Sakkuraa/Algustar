@@ -95,7 +95,7 @@ export default class Third3 extends Component {
             <br />
             Туруоруммут соругум туоллун.
             <br />
-            Дуом!
+            Дом!
             <br /> <br />
           </p>
         </article>

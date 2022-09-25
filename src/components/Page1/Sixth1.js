@@ -100,7 +100,7 @@ export default class Sixth1 extends Component {
             <br />
             Аҕа баһын <br />
             Тосту олордун. <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

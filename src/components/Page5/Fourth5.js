@@ -78,7 +78,7 @@ export default class Fourth5 extends Component {
             Киирэрим киирдин,
             <br />
             Таарыйарым таарыйдын. <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

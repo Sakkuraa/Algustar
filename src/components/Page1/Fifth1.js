@@ -54,7 +54,7 @@ export default class Fifth1 extends Component {
                 <br/>
                 Иэйэхситим<br/>
                 Эҕэрдэлии турдун.<br/>
-                Дуом! <br/>
+                Дом! <br/>
                 <br/>
 					</p>
 				</article>

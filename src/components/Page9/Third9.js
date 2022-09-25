@@ -27,7 +27,7 @@ export default class Third9 extends Component {
             <NavLink to="/Sixth9">Сиэр Айыы Тойон</NavLink>
             <br />
             <br />
-            <NavLink to="/Seventh9">Дуом Айыы Тойон</NavLink>
+            <NavLink to="/Seventh9">Дом Айыы Тойон</NavLink>
             <br />
             <br />
           </ul>
@@ -99,7 +99,7 @@ export default class Third9 extends Component {
             <br />
             Сырдык суолланыым.
             <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

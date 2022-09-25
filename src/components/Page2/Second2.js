@@ -54,7 +54,7 @@ export default class Second2 extends Component {
                 <br/>
                 Күн өттүнэн сылдьыым, <br/>
                 Күөх отунан хаамыым. <br/>
-                Дуом!<br/><br/>
+                Дом!<br/><br/>
 					</p>
 				</article>
 				<article><br/><br/>			

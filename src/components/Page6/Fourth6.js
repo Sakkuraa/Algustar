@@ -82,7 +82,7 @@ export default class Fourth6 extends Component {
             <br />
             Кэскиллээх санаа <br />
             Киирэ турдун. <br />
-            Дуом! <br />
+            Дом! <br />
           </p>
         </article>
         <article>

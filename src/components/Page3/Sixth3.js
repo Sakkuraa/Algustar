@@ -90,7 +90,7 @@ export default class Sixth3 extends Component {
             Айбыт айымньым <br />
             Айхалланнын.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

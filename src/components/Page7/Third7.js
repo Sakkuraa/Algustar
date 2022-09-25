@@ -86,7 +86,7 @@ export default class Third7 extends Component {
             <br />
             Өйдүүр өйдөнүүм, <br />
             Билэр мэйиилэниим. <br />
-            Дуом!
+            Дом!
             <br />
             <br />
           </p>

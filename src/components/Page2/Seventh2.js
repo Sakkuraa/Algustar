@@ -80,7 +80,7 @@ export default class Seventh2 extends Component {
             Үктэммит сирбиттэн
             <br />
             Күөх от үүннүн. <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

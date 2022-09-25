@@ -27,7 +27,7 @@ export default class T9 extends Component {
             <NavLink to="/Sixth9">Сиэр Айыы Тойон</NavLink>
             <br />
             <br />
-            <NavLink to="/Seventh9">Дуом Айыы Тойон</NavLink>
+            <NavLink to="/Seventh9">Дом Айыы Тойон</NavLink>
             <br />
             <br />
           </ul>
@@ -55,7 +55,7 @@ export default class T9 extends Component {
             <br />
             И6. Владыка Нравов (Сиэр Айыы Тойон).
             <br />
-            И7. Владыка Заповедей (Дуом Айыы Тойон).
+            И7. Владыка Заповедей (Дом Айыы Тойон).
             <br />
           </p>
         </div>

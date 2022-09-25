@@ -81,7 +81,7 @@ export default class Fourth2 extends Component {
             Турууласпытым <br />
             Томторго буоллун.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

@@ -92,7 +92,7 @@ export default class Seventh3 extends Component {
             <br />
             Бэйэм күүспэр эрэниим.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>
@@ -156,7 +156,7 @@ export default class Seventh3 extends Component {
             <br />
             Пусть расширяется мой забор,
             <br />
-            Стены Дуома будут надежными.
+            Стены Дома будут надежными.
             <br />
             <br />
             Буду опираться на свои силы,

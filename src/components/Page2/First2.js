@@ -87,7 +87,7 @@ export default class First2 extends Component {
             <br />
             Таһым ньалҕарыйдын.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>

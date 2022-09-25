@@ -83,7 +83,7 @@ export default class Third6 extends Component {
             <br />
             Сынтарыйбат сындааһыннаныым.
             <br />
-            Дуом! <br />
+            Дом! <br />
             <br />
           </p>
         </article>
